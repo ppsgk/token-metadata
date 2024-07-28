@@ -1,8 +1,8 @@
 {
-    "name": "Neiro",
-    "symbol": "NEI",
-    "description": "Neiro is best",
-    "image": "https://ppsgk.github.io/token-metadata/logo.jpg",
+    "name": "PPS Token",
+    "symbol": "PPS",
+    "description": "Accurate query, everything is under control",
+    "image": "https://ppsgk.github.io/token-metadata/pp.png",
     "attributes": [
       {
         "trait_type": "max_supply",
