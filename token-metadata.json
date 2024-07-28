@@ -1,0 +1,12 @@
+{
+    "name": "Neiro",
+    "symbol": "NEI",
+    "description": "Neiro is best",
+    "image": "./logo.png",
+    "attributes": [
+      {
+        "trait_type": "max_supply",
+        "value": "1000000000"
+      }
+    ]
+  }
